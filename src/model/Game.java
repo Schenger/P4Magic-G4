@@ -355,5 +355,13 @@ public final class Game extends Observable {
     public Player getPlayer2() {
         return this._player2;
     }
+    
+    public int getNbPlayer() {
+        int nbPlayer=1;
+        if (_currentPlayer==_player2){
+            nbPlayer=2;
+        }
+        return nbPlayer;
+    }
 
 }
