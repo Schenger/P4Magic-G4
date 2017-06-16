@@ -7,6 +7,8 @@ import java.util.Random;
 /**
  *
  * @author Admin
+ * 
+ * This effect spawn a tile of a random color into a randm column
  */
 public class RandomTileSpawnEffect extends Effect{
 

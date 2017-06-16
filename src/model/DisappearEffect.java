@@ -11,7 +11,7 @@ package model;
 public class DisappearEffect extends Effect {
 
     /**
-     * TODO
+     *  This effet make a tile disappears
      */
     @Override
     public void playEffect(int line, int column, Game game) {

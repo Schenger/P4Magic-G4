@@ -22,6 +22,8 @@ import view.GameView;
  * GameController
  *
  * @author hakkahi and Amélie Cordier, IUT Lyon 1 - 2016
+ * 
+ *  This class allow to control the game
  *
  */
 public final class GameController {

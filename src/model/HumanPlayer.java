@@ -9,6 +9,9 @@ import java.awt.Color;
 /**
  * Class HumanPlayer
  * @author hakkahi - IUT Lyon 1 - 2016
+ * 
+ * 
+ *
  */
 public class HumanPlayer extends Player {
 
